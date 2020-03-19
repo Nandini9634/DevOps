@@ -9,3 +9,5 @@ In this there are two projects:
 2. Registering into the dummy facebook page. 
 
 The dummy facebook page is made using HTML, CSS, PHP.
+
+Selenium and Java is used to automate login and register process.
